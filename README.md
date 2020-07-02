@@ -26,3 +26,8 @@ Lavavel + Vue でyoutube動画紹介サイト
  <br>
 ## 公開URL
 https://youtube-fan.herokuapp.com/<br>
+
+動作チェックは以下のアカウントでログインできます。
+【ロール：管理人】
+ID：admin@admin.com
+PassWord：adminpassword
